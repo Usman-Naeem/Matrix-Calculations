@@ -8,8 +8,8 @@ In this script, Basic Operations on Matrices can be performed by the user like,
 - [x] Finding Power of a Matrix
 - [x] Finding Scalar of Matrix
 
-Author
-## Muhammad Usman Naeem
+## Author
+Muhammad Usman Naeem
 
-License
-### GNU General Public License-3
+## License
+GPL-3
